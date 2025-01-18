@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5350acb-ea26-4ab6-acc9-e3d17853a4f4" name="Changes" comment="" />
+    <list default="true" id="a5350acb-ea26-4ab6-acc9-e3d17853a4f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/awesome-codebases/lab02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/lab02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/awesome-codebases" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -20,17 +35,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.lab01.executor": "Run",
+    "Python.lab02.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/luung/Desktop/COMP 2152/awesome-codebases",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luung\Desktop\COMP 2152\awesome-codebases" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luung\Desktop\COMP 2152\week02" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git push" />
+      <command value="clone" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,7 +82,18 @@
       <option name="presentableId" value="Default" />
       <updated>1736541217957</updated>
       <workItem from="1736541218980" duration="180000" />
-      <workItem from="1736541408507" duration="321000" />
+      <workItem from="1736541408507" duration="2461000" />
+      <workItem from="1736796018390" duration="101000" />
+      <workItem from="1736796131074" duration="1578000" />
+      <workItem from="1736798151932" duration="62000" />
+      <workItem from="1736801609349" duration="42000" />
+      <workItem from="1737139204209" duration="299000" />
+      <workItem from="1737144422337" duration="526000" />
+      <workItem from="1737144960718" duration="1996000" />
+      <workItem from="1737196228285" duration="283000" />
+      <workItem from="1737196523956" duration="118000" />
+      <workItem from="1737232252770" duration="2516000" />
+      <workItem from="1737235204577" duration="663000" />
     </task>
     <servers />
   </component>
@@ -56,6 +101,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COMP_2152$lab01.coverage" NAME="lab01 Coverage Results" MODIFIED="1736797272663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week01" />
+    <SUITE FILE_PATH="coverage/main_py$lab02.coverage" NAME="lab02 Coverage Results" MODIFIED="1737146219188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02" />
     <SUITE FILE_PATH="coverage/COMP_2152$main.coverage" NAME="main Coverage Results" MODIFIED="1736541440059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1737233166939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02" />
   </component>
 </project>
